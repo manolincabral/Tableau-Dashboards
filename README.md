@@ -11,5 +11,5 @@ This repository hosts a variety of Tableau projects and dashboards,
 ## Projects in this Repository
 
 ## Contact
-_**Carlos Cabral**
-_**manolincabral@msn.com**
+- **Carlos Cabral**
+- **manolincabral@msn.com**
