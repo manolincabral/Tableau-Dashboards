@@ -32,6 +32,7 @@ To explore and analyze a specific Tableau project, follow these steps:
    
 ## Projects in this Repository
 - **Customer Analysis Dashboard**: Analyze customer behavior and purchasing patterns.
+- **Real Estate Market Dashboard**: Informational dashboard about the real estate market in 10 cities for the year 2023.
 
 ## Contact
 - **Carlos Cabral**
