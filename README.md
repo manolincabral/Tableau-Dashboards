@@ -18,7 +18,7 @@ To explore and analyze a specific Tableau project, follow these steps:
 
 1. Clone this repository to your local machine:
 
-  git clone https://github.com/manolincabral/Tableau_Dashboards.git
+     git clone https://github.com/manolincabral/Tableau-Dashboards
   
 2. Navigate to the project folder you are interested in.
 
