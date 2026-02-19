@@ -33,7 +33,7 @@ To explore and analyze a specific Tableau project, follow these steps:
 ## Projects in this Repository
 - **Customer Analysis Dashboard**: Analyze customer behavior and purchasing patterns.
 - **Real Estate Market Dashboard**: Informational dashboard about the real estate market in 10 cities for the year 2023.
-- **HR Dashboard**: comprehensive dashboard to analyze human resources data, providing both summary views for high-level insights and detailed employee records.
+- **HR Dashboard**: Comprehensive dashboard to analyze human resources data, providing both summary views for high-level insights and detailed page for employee records.
 
 ## Contact
 - **Carlos Cabral**
